@@ -1,0 +1,5 @@
+org/inria/restlet/mta/database/InMemoryDatabase.class
+org/inria/restlet/mta/main/Main.class
+org/inria/restlet/mta/application/MyTwitterApplication.class
+org/inria/restlet/mta/resources/UsersResource.class
+org/inria/restlet/mta/resources/UserResource.class
